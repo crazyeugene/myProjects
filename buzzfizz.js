@@ -19,8 +19,3 @@ function fizz_buzz(){
     }
 }
 fizz_buzz();
-
-//hello
-//the fha nojlj
-fadfads 
-//hjjhjh
